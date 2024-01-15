@@ -1,0 +1,60 @@
+
+body{
+    text-align: justify;
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 6px;
+}
+*{
+    font-weight: bold;
+}
+.title{
+    color: teal;
+}
+.subtitle{
+    color: blue;
+}
+.firstParraf  .first{
+    color: red;
+}
+.firstParraf  .second{
+    color: orange;
+}
+.secondParraf  .first{
+    color: red;
+    text-decoration: underline;
+}
+.secondParraf  .first  .second{
+    color: blue;
+}
+.secondParraf .tirdh{
+    color: blueviolet;
+}
+h4{
+    margin-left: 120px;
+    color: blue;
+}
+.tirdhParraf{
+    color:olive;
+}
+.tirdhParraf  .first{
+    color:deeppink;
+}
+.tirdhParraf  .second{
+    color: green;
+    text-decoration: underline;
+}
+.orange{
+    color: orange;
+}
+.content{
+    color: green;
+}  
+.titleTable1, .titleTable2{
+    color: orange;
+}
+.titleTable4, .titleTable3{
+    color: red;
+}
